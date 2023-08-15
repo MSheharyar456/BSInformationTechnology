@@ -1,1 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BS IT Tutorials</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>BS IT Tutorials</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Tutorials</a></li>
+                <li><a href="#">About Us</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section class="banner">
+        <h2>Welcome to BS IT Tutorials!</h2>
+        <p>Your go-to resource for learning IT concepts.</p>
+    </section>
+
+    <section class="tutorials">
+        <h2>Tutorials</h2>
+        <div class="tutorial-card">
+            <h3>Introduction to Programming</h3>
+            <p>Learn the basics of programming with this comprehensive tutorial.</p>
+            <a href="#" class="btn">Read More</a>
+        </div>
+        <div class="tutorial-card">
+            <h3>Web Development Fundamentals</h3>
+            <p>Explore the world of web development and create your first website.</p>
+            <a href="#" class="btn">Read More</a>
+        </div>
+        <!-- Add more tutorial cards as needed -->
+    </section>
+
+    <section class="about">
+        <h2>About Us</h2>
+        <p>We are a team of passionate IT professionals dedicated to providing high-quality tutorials for BS IT students.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 BS IT Tutorials. All rights reserved.</p>
+    </footer>
+</body>
+</html>
 
